@@ -5,6 +5,7 @@ import data from '../book'
 import { Promise } from "q";
 import { resolve } from "path";
 // import newPage from '../../components/propstype'
+ 
 //tijiao
 let styles = {
   'father':{
