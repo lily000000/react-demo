@@ -6,7 +6,7 @@ import { Promise } from "q";
 import { resolve } from "path";
 // import newPage from '../../components/propstype'
  
-//tijiao
+//tijiaoeee
 let styles = {
   'father':{
   'margin':'0px',
